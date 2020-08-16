@@ -2,7 +2,7 @@
 Replace the contents of this module docstring with your own details
 Name: LIU XIN
 Date started: 08.12
-GitHub URL:
+GitHub URL: https://github.com/XinLiu-c/CP1404-PRAC
 """
 
 # function that displaying the places from reading a csv file
